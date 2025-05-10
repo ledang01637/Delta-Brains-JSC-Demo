@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeltaBrainJSC", "DeltaBrainJSC\DeltaBrainJSC.csproj", "{BEEBBECC-AEE6-45D8-A9B7-A441F8084AF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEEBBECC-AEE6-45D8-A9B7-A441F8084AF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEEBBECC-AEE6-45D8-A9B7-A441F8084AF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEEBBECC-AEE6-45D8-A9B7-A441F8084AF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEEBBECC-AEE6-45D8-A9B7-A441F8084AF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4761F9FA-E617-4DFA-BE57-1A70E3747C36}
+	EndGlobalSection
+EndGlobal
